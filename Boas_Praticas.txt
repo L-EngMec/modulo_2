@@ -1,8 +1,0 @@
-1- Usar verbos HTTP as requisições
- - get
- - post
- - put
- - delete
-2- Não deixar barra no final do end-point
-3- Nunca deixar o cliente sem resposta
-
